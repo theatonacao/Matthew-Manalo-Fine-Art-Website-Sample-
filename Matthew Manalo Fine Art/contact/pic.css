@@ -1,0 +1,45 @@
+			
+			body{ 
+				background-color: black;
+				background-image: url("../images/bgpic.jpg");
+				background-repeat:repeat;
+				}
+
+			#content{
+				
+				background-color:hsla(0, 0%, 0%, 0.8);
+				padding: 20px 100px;
+				font-size: 20px;
+				font-family: "Trebuchet MS";
+				text-align: justify;
+				text-indent: 5px;
+				margin-top: 200px;
+				color: white;	
+			}
+
+			img{
+				padding: 20px 100px;
+
+			}
+			
+			
+			#myBtn {
+		    
+			    position: fixed; /* Fixed/sticky position */
+			  	 top: 20px; /* Place the button at the bottom of the page */
+			    left: 30px; /* Place the button 30px from the right */
+			    z-index: 99; /* Make sure it does not overlap */
+			    border: none; /* Remove borders */
+			    outline: none; /* Remove outline */
+			    background-color:#555; /* Set a background color */
+			    color: white; /* Text color */
+			    cursor: pointer; /* Add a mouse pointer on hover */
+			    padding: 15px; /* Some padding */
+			    border-radius: 8px; /* Rounded corners */
+			    font-size: 15px; /* Increase font size */
+			    font-family: "Trebuchet MS";
+			}
+
+			#myBtn:hover {
+		   		 background-color: black; /* Add a dark-grey background on hover */
+			}	

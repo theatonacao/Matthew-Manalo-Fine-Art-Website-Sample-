@@ -1,0 +1,42 @@
+body {
+	background-image: url("images/bgpic.jpg");
+	background-repeat: no-repeat;
+	background-color: black;
+	background-size: cover;
+}
+#heading {
+	color: white;
+	font-family:"Trebuchet MS";
+	font-size: 100px;
+	padding-left: 100px;
+	padding-top: 30px;
+	padding-bottom: 0px;
+}
+#subline{
+
+	font-family: "Trebuchet MS";
+	font-size:35px;
+	color:black;
+	padding-left: 100px;
+	padding-top: 0px;
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+a:hover{
+	color: gray;
+}
+
+#footermenu a{
+	text-decoration: none;
+	color:gray;
+}
+
+#footermenu a:hover{
+	color: gray;
+}
+}
+}
